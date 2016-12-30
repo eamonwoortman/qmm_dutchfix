@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dutchfix_qmm", "dutchfix_qmm.vcproj", "{E6D94E87-0E3F-42E0-8A98-19282FB850E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug RTCWET|Win32 = Debug RTCWET|Win32
+		Debug RTCWMP|Win32 = Debug RTCWMP|Win32
+		Debug|Win32 = Debug|Win32
+		Release RTCWET|Win32 = Release RTCWET|Win32
+		Release RTCWMP|Win32 = Release RTCWMP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug RTCWET|Win32.ActiveCfg = Debug RTCWET|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug RTCWET|Win32.Build.0 = Debug RTCWET|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug RTCWMP|Win32.ActiveCfg = Debug RTCWMP|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug RTCWMP|Win32.Build.0 = Debug RTCWMP|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Debug|Win32.Build.0 = Debug|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release RTCWET|Win32.ActiveCfg = Release RTCWET|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release RTCWET|Win32.Build.0 = Release RTCWET|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release RTCWMP|Win32.ActiveCfg = Release RTCWMP|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release RTCWMP|Win32.Build.0 = Release RTCWMP|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release|Win32.ActiveCfg = Release|Win32
+		{E6D94E87-0E3F-42E0-8A98-19282FB850E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
